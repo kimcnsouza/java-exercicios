@@ -30,5 +30,6 @@ public class Exercicio04MediaEscolar {
 
         scanner.close();
 
+
     }
 }
