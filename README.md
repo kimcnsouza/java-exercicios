@@ -2,27 +2,27 @@
 
 Repositório criado para acompanhar minha evolução nos estudos em Java.
 
-Aqui adiciono exercícios, práticas e pequenos desafios que faço durante o aprendizado, com o objetivo de melhorar minha lógica de programação e ganhar mais familiaridade com a linguagem.
+Aqui adiciono exercícios, práticas e pequenos desafios que desenvolvo durante o aprendizado, com foco em fortalecer lógica de programação, resolução de problemas e familiaridade com a linguagem.
 
-## Conteúdo
+## 📚 Conteúdos estudados
 
-* Condicionais
-* Estruturas de repetição
-* Arrays
-* Métodos
-* Programação Orientada a Objetos
+- Condicionais
+- Estruturas de repetição
+- Arrays
+- Métodos
+- Programação Orientada a Objetos *(em andamento)*
 
-## Objetivo
+## 🎯 Objetivo
 
-Manter constância nos estudos e registrar minha evolução ao longo do tempo.
+Manter constância nos estudos, praticar os fundamentos da programação e registrar minha evolução ao longo da jornada em desenvolvimento Java.
 
-## Ferramentas utilizadas
+## 🛠️ Ferramentas utilizadas
 
-* Java
-* IntelliJ IDEA
-* Git
-* GitHub
+- Java
+- IntelliJ IDEA
+- Git
+- GitHub
 
-## Observação
+## 🚀 Observação
 
-Este repositório será atualizado conforme avanço nos estudos.
+O repositório será atualizado conforme avanço nos estudos e desenvolvimento de novos exercícios.
